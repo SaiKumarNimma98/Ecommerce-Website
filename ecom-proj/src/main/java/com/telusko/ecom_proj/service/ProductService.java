@@ -39,10 +39,8 @@ public class ProductService {
         return repo.save(product);
     }
     ///
+    ///NSK
     ///
-    /// 
-    ///
-    ///saikumarnimmaNSK
 
     public void deleteProduct(int id) {
          repo.deleteById(id);
