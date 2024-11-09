@@ -40,12 +40,10 @@ public class ProductService {
     }
     ///
     ///
-    /// nimmasaikumar
+    /// 
     ///
-    ///
-    ///
-    ///
-    ///
+    ///saikumarnimmaNSK
+
     public void deleteProduct(int id) {
          repo.deleteById(id);
     }
